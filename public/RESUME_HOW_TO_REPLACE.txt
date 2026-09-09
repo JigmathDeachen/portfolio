@@ -1,0 +1,16 @@
+========================================================================
+HOW TO REPLACE WITH YOUR ORIGINAL RESUME PDF
+========================================================================
+
+Your portfolio is configured to serve your resume directly from:
+   public/resume.pdf
+
+To replace it with your real original resume:
+1. Copy your original PDF resume file.
+2. Rename it to "resume.pdf".
+3. Paste / overwrite it inside the "public" folder of this project:
+   -> /public/resume.pdf
+
+That's it! When you push to GitHub or build your project:
+- Visitors clicking "Download PDF" or "Open PDF" will immediately see your official original resume.
+========================================================================
